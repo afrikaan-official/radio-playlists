@@ -4,7 +4,7 @@ A collection of radio playlists for old school winamp users.
 Most of the radios are available in Turkey. But with the help of community we can feed it with best radios around the world.
 
 
-# Current list of radio's 
+# current list of radio's 
         Radio Name | Country | Genre
 - Radyo Eksen | Turkey | Rock
 - Hard Rock Cafe İstanbul | Turkey | Rock
